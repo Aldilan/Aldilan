@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldilan" alt="aldilan" /></a> </p>
-
 - 🌱 I’m currently learning **Tailwind CSS**
 
 - 💬 Ask me about **Website, design**
@@ -28,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldilan&show_icons=true&locale=en" alt="aldilan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldilan&" alt="aldilan" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldilan" alt="aldilan" /></a> </p>
+
