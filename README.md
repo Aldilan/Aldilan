@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS**
-
-- 💬 Ask me about **Website, design**
-
-- 📫 How to reach me **aldilan108@gmail.com**
-
 - ⚡ Fun fact **I think I'm Japanofilia**
 
 <h3 align="left">Connect with me:</h3>
