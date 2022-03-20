@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aldilan</h1>
 <h3 align="center">Beginner web developer from Indonesia</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 <a href="https://www.instagram.com/nitcoding/"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/ChcmKtN/20220224-081633.png"></a>
 
 - 📫 How to reach me **aldilan108@gmail.com**
@@ -16,8 +17,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/aldilan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/aldilan" /></a></p><br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldilan" alt="aldilan" /></a> </p>
 
