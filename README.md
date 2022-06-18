@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aldilan</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Aldilan</h1>
 <h3 align="center">Junior web developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 <a href="https://www.instagram.com/nitcoding/"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/ChcmKtN/20220224-081633.png"></a>
