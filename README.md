@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldilan&label=Profile%20views&color=0e75b6&style=flat" alt="aldilan" /> </p>
 <a href="https://www.instagram.com/nitcoding/"><img align="right" alt="Coding" width="400" src="https://i.ibb.co/ChcmKtN/20220224-081633.png"></a>
 
-- 📫 How to reach me **aldilan108@gmail.com**
+- 📫 How to reach me **aldilan.arh@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
